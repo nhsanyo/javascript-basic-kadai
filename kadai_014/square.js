@@ -1,7 +1,7 @@
 
 
 const square=(num)=>{
-    console.log(num*num);
+    return num*num;
 }
 
-square(30);
+console.log(square(30));
